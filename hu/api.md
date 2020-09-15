@@ -7,6 +7,8 @@ Kommunikáció során a böngésző szabványos JSON formátumban kommunikál. �
 JSON (JavaScript Object Notation) kis méretű és szöveg alapú szabvány, amit a RFC4627  ír le. A JSON szerkezetére vonatkozóan a szóközök, új sor (enter) vagy tabulátor nincs rá hatással.
 
 ### JSON alaptípusai:
+A JSON struktúrális szerkezete [itt](https://github.com/Project-echef/provisions/blob/master/img/json.svg) tekinthető meg.
+
 - **null**. Olyan adat (vagy üres érték), ami nem képvisel típust vagy értéket, továbbá minden adattípust helyettesíthet.
 - **Szám**. A dokumentációban úgy hivatkozunk rá, mint: <number>
 - **Karakterlánc**. A dokumentációban úgy hivatkozunk rá, mint: <string>
